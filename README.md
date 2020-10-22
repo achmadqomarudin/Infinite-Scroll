@@ -20,7 +20,7 @@ Repo to demonstrate Infinite Scroll in Android Recyclerview. This is a follow up
   </a>
 </p>
 
-<table style="width:100%" class="center">
+<table style="width:100% border:1px solid black;margin-left:auto;margin-right:auto;>
   <tr>
     <th>Demo</th>
   </tr>
