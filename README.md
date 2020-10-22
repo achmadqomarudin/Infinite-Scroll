@@ -14,7 +14,11 @@ Repo to demonstrate Infinite Scroll in Android Recyclerview. This is a follow up
 
 # Demo App
 
-[Demo Download](https://github.com/achmadqomarudin/Infinite-Scroll/blob/master/screenshots/app-demo.apk)
+<p align="center">
+  <a href="https://github.com/achmadqomarudin/Infinite-Scroll/releases/download/app-demo.apk">
+    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
+  </a>
+</p>
 
 <table style="width:100%">
   <tr>
